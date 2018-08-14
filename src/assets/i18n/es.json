@@ -1,0 +1,48 @@
+{
+    "NAME": "Nombre",
+    "PASSWORD": "Contraseña",
+    "EMAIL": "Email",
+    "LOGIN": "Iniciar sesión",
+    "SIGNUP": "Registrarse",
+
+    "TAB1_TITLE": "Items",
+    "TAB2_TITLE": "Buscar",
+    "TAB3_TITLE": "Ajustes",
+
+    "MAP_TITLE": "Mapa",
+
+    "TUTORIAL_SLIDE1_TITLE": "Bienvenido a EstudApp !!",
+    "TUTORIAL_SLIDE1_DESCRIPTION": "Con <b>EstudApp</b> puedes escojer la oferta académica de tu interés",
+
+    "TUTORIAL_SLIDE2_TITLE": "¿Deseas estudiar en tu localidad?",
+    "TUTORIAL_SLIDE2_DESCRIPTION": "Selecciona la institución más cercana a tí.",
+
+    "TUTORIAL_SLIDE3_TITLE": "¿No encuentras una oferta academica a tú gusto?",
+    "TUTORIAL_SLIDE3_DESCRIPTION": "<b>EstudApp</b> no solo te ofrecemos ofertas académicas, tambien te escuchamos y te guiamos para darte una mejor solución.",
+
+    "SETTINGS_TITLE": "Ajustes",
+    "SETTINGS_OPTION1": "Opción 1",
+    "SETTINGS_OPTION2": "Opción 2",
+    "SETTINGS_OPTION3": "Opción 3",
+    "SETTINGS_OPTION4": "Opción 4",
+
+    "SETTINGS_PAGE_PROFILE": "Editar Perfil",
+
+    "WELCOME_TITLE": "Bienvenido/a",
+
+    "LOGIN_TITLE": "Iniciar sesión",
+    "LOGIN_ERROR": "No se ha podido iniciar sesión. Por favor revisa la información de la cuenta e inténtalo de nuevo.",
+    "LOGIN_BUTTON": "Iniciar sesión",
+    "SIGNUP_TITLE": "Registro",
+    "SIGNUP_ERROR": "No se ha podido crear la cuenta. Por favor revisa la información de la cuenta e inténtalo de nuevo.",
+    "SIGNUP_BUTTON": "Registrarse",
+
+    "LIST_MASTER_TITLE": "Items",
+
+    "ITEM_CREATE_TITLE": "Nuevo Item",
+    "ITEM_CREATE_CHOOSE_IMAGE": "Añadir Imagen",
+
+    "CARDS_TITLE": "Social",
+
+    "SEARCH_TITLE": "Buscar"
+}

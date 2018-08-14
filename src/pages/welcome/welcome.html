@@ -1,0 +1,38 @@
+<ion-content scroll="false" class="cards-bg">
+    <div class="splash-bg"></div>
+    <div class="splash-info">
+        <div class="splash-logo"></div>
+        <div class="splash-intro">
+            {{ 'WELCOME_INTRO' | translate }}
+        </div>
+    </div>
+    <div padding>
+        <ion-card style="background-color: #5cb85c">
+            <ion-card-content class="card-text">
+                <ion-icon name="paper" class="icon-text"></ion-icon>
+                ¿Que estudiar?
+            </ion-card-content>
+        </ion-card>
+
+        <ion-card style="background-color: #428bca">
+            <ion-card-content class="card-text">
+                <ion-icon name="pin" class="icon-text"></ion-icon>
+                ¿Donde estudiar?
+            </ion-card-content>
+        </ion-card>
+        <ion-card style="background-color: #ff8000" (click)="login()">
+            <ion-card-content class="card-text">
+                <ion-icon name="people" class="icon-text"></ion-icon>
+                Login
+            </ion-card-content>
+        </ion-card>
+        <ion-card style="background-color: #808080" (click)="signup()">
+            <ion-card-content class="card-text">
+                <ion-icon name="create" class="icon-text"></ion-icon>
+                Registrese
+            </ion-card-content>
+        </ion-card>
+        <!--button ion-button block (click)="signup()">{{ 'SIGNUP' | translate }}</button>
+        <button ion-button block (click)="login()" class="login">{{ 'LOGIN' | translate }}</button-->
+    </div>
+</ion-content>
